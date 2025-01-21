@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @scaoes, also known as Scao
+- 🍃 I am a young Developer from Austria trying to create amazing things from home
+- 👀 I’m interested in: Learning and creating new things
+- 🌱 I’m currently learning: Professional Pythen, Java
+- 💞️ I’m looking to collaborate on: Discord!
+- 📫 How to reach me: Discord @scaoe
+- 😄 Pronouns: he/him
+- 💎 Plans for the Future: Study Astrophysics and occupy with the Space
+- ⚡ Server: discord.gg/meowgers
