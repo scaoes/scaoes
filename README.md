@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scaoes, also known as Scao
+- 👋 Hi, I’m @scaoes, also known as Kiki
 - 🍃 I am a young Developer from Austria trying to create amazing things from home
 - 👀 I’m interested in: Learning and creating new things
 - 🌱 I’m currently learning: Professional Pythen, Java
@@ -6,4 +6,4 @@
 - 📫 How to reach me: Discord @scaoe
 - 😄 Pronouns: he/him
 - 💎 Plans for the Future: Study Astrophysics and occupy with the Space
-- ⚡ Server: discord.gg/meowgers
+- ⚡ Server: discord.gg/xeno
